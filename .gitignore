@@ -30,3 +30,7 @@ bin/
 
 # Maven build
 target
+
+# IDEA
+.idea
+jflex-unicode.iml
